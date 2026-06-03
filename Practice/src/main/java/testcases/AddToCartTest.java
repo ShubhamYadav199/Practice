@@ -32,6 +32,7 @@ public class AddToCartTest extends BaseClass {
 //		Alerts.acceptAlert();
 //		Thread.sleep(2000);
 		
+		// Jenkins SCM Polling Test
 		
 		// Add to cart
 		InventoryPage product =new InventoryPage(driver);
